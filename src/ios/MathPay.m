@@ -1,8 +1,8 @@
-#import "MyCordovaPlugin.h"
+#import "MathPay.h"
 
 #import <Cordova/CDVAvailability.h>
 
-@implementation MyCordovaPlugin
+@implementation MathPay
 
 - (void)pluginInitialize {
 }

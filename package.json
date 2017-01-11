@@ -1,12 +1,31 @@
 {
-  "name": "cordova-plugin-template",
-  "version": "1.0.0",
+  "name": "cordova-plugin-mathpay",
+  "version": "0.0.1-dev",
   "cordova": {
-    "id": "cordova-plugin-template",
+    "id": "cordova-plugin-mathpay",
     "platforms": [
       "android",
-      "ios",
+      "ios"
     ]
   },
-  "description": "A starting point for a Cordova Plugin"
+  "description": "A Cordova pay plugin intergrated two Chinese most popular pay tools: Alipay & Wechatpay.",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "main": "www/plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathxlee/cordova-plugin-mathpay.git"
+  },
+  "author": "mathxlee",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mathxlee/cordova-plugin-mathpay/issues"
+  },
+  "homepage": "https://github.com/mathxlee/cordova-plugin-mathpay#readme"
 }

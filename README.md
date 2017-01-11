@@ -1,4 +1,4 @@
-Cordova Plugin Template
+Cordova Plugin MathPay
 ======
 
-This is a simple starting point for building a Cordova plugin on iOS and Android.
+This is a Cordova pay plugin intergrated two Chinese most popular pay tools: Alipay & Wechatpay.
