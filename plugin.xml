@@ -25,7 +25,7 @@
         </feature>
       </config-file>
 
-      <source-file src="src/android/com/example/MathPay.java" target-dir="src/com/example/" />
+      <source-file src="src/android/com/mathxlee/MathPay.java" target-dir="src/com/mathxlee/" />
     </platform>
 
     <!-- ios -->
